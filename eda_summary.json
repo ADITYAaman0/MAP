@@ -1,0 +1,17 @@
+{
+    "train_size": 36696,
+    "test_size": 3,
+    "unique_questions_train": 15,
+    "unique_questions_test": 2,
+    "category_distribution": {
+        "True_Correct": 14802,
+        "False_Misconception": 9457,
+        "False_Neither": 6542,
+        "True_Neither": 5265,
+        "True_Misconception": 403,
+        "False_Correct": 227
+    },
+    "avg_explanation_length": 69.95342816655766,
+    "avg_explanation_words": 15.357831916285154,
+    "unique_misconceptions": 35
+}
